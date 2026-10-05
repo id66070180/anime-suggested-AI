@@ -1,0 +1,13 @@
+{
+  "data": "anime_clean.csv",
+  "artifacts": "artifacts",
+  "embedding_model": "Qwen/Qwen3-Embedding-0.6B",
+  "reranker_model": "Qwen/Qwen3-Reranker-0.6B",
+  "explanation_model": "Qwen/Qwen3.5-4B",
+  "device": "cpu",
+  "local_files_only": true,
+  "quantize_4bit": false,
+  "batch_size": 8,
+  "max_length": 512,
+  "candidate_count": 50
+}
