@@ -1,0 +1,12 @@
+{
+  "input": 30075,
+  "kept": 17217,
+  "filled_aired_to": 7814,
+  "filled_title_english": 7799,
+  "removed": 12858,
+  "adult_content": 2861,
+  "missing_genres": 6394,
+  "missing_synopsis": 5060,
+  "not_yet_aired": 653,
+  "duplicate_id": 27
+}
